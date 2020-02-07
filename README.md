@@ -1,2 +1,1 @@
-# website
-https://tessify.org
+# Tessify.org
