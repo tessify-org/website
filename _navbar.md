@@ -1,5 +1,5 @@
 <!-- _navbar.md -->
-* [Home](README.md)
+* [Home](/)
 * [News](news.md)
 * [Contact](contact.md)
 * [About](about.md)
