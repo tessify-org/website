@@ -1,5 +1,5 @@
 <!-- _navbar.md -->
-* [Home]
+* [Home]('https://tessify.org')
 * [News](news.md)
 * [About](about.md)
   * [Mission](mission.md)
