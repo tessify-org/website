@@ -1,4 +1,3 @@
-site_name: TESSIFY.ORG
 <!-- _navbar.md -->
 * [Home](/)
 * [News](news.md)
