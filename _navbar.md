@@ -1,4 +1,3 @@
-![icon](_media/tessifyorgavatar.png)
 <!-- _navbar.md -->
 * [Home](/)
 * [News](news.md)
